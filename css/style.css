@@ -29,7 +29,10 @@
     font-weight: bold;
     padding: 15px;
 }
-
+.btn:hover{
+    background-color: #7961fc;
+ 
+}
 .mid_fonts {
     font-size: 20px;
 }
@@ -808,8 +811,9 @@ footer input[type=text] {
 /* ==================================================================== */
 
 @media screen and (max-width: 600px) {
-    .head_strip li {
-        font-size: 15px;
+    .head_strip  {
+        display: none;
+
     }
 
     .container {
@@ -1016,8 +1020,8 @@ footer input[type=text] {
 
 
 @media screen and (max-width: 500px) {
-    .head_strip li {
-        font-size: 13px;
+    .head_strip  {
+        display: none;
 
     }
 
