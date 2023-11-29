@@ -1,0 +1,207 @@
+@media screen and (max-width: 922px) {
+    .check_btn {
+        display: block;
+        font-size: 30px;
+        color: #624bff;
+        padding: 10px -0px 0px 25px;
+        cursor: pointer;
+
+    }
+
+    .nav_list ul {
+        display: none;
+
+    }
+
+    .head_strip li {
+        font-size: 14px;
+        padding: 8px;
+        margin: 0;
+    }
+
+    .head_strip ul {
+        width: 100%;
+        display: inline block;
+    }
+
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .title_text {
+        font-size: 30px;
+    }
+
+    .sm_fonts {
+        font-size: 15px;
+    }
+
+    .btn {
+        background-color: #624bff;
+        color: white;
+        border-radius: 5px;
+        font-size: 15px;
+        font-weight: bold;
+        padding: 13px;
+    }
+
+    .mid_fonts {
+        font-size: 15px;
+    }
+
+    .banner_title h1 {
+        font-size: 35px;
+        padding-right: 20px;
+
+    }
+
+    .title_area {
+        position: absolute;
+        top: 5%;
+        left: 10%;
+
+    }
+
+    .banner {
+        min-height: 50vh;
+    }
+
+    .banner_detail {
+        max-width: 400px;
+    }
+
+    .type1 {
+        /* border-bottom: 1px solid #959ba479; */
+        border-right: 0px solid #959ba479;
+    }
+.loan_type{
+    border-bottom: 1px solid #959ba479; ;
+}
+    .about_product span {
+        font-size: 18px;
+
+    }
+
+    .product_card {
+        padding: 20px 40px;
+        min-height: 37 0px;
+        margin: 20px;
+    }
+
+    .service_details {
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        box-shadow: 0px 2px rgb(10 9 9 / 5%);
+        flex-wrap: wrap;
+        /* border: 2px solid black; */
+
+    }
+
+    .service_details span {
+        font-size: 22px;
+    }
+
+    .news_grid {
+        display: flex;
+        justify-content: space-around;
+        /* flex-wrap: wrap; */
+        gap: 25px;
+    }
+
+    .start_btn {
+        /* margin: 0 auto; */
+        text-align: center;
+        padding: 50px 0px 70px;
+    }
+
+    .review_grid {
+        margin: 0;
+    }
+
+    .support_display {
+        padding-bottom: 40px;
+    }
+
+    .support_card {
+        margin: 0;
+        gap: 10px;
+        height: auto;
+    }
+
+    .footer_Sec {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer_Sec1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+
+    }
+
+    .footer_containt {
+        display: block;
+        text-align: center;
+        width: 80%;
+        margin: 0 auto;
+
+    }
+
+    .footer_address p {
+        font-size: 20px;
+        padding: 8px 0px 41px;
+
+        text-align: center;
+    }
+
+    .footer_logo img {
+        max-width: 220px;
+        /* padding: 20px; */
+    }
+
+    .signup {
+        display: flex;
+        flex-wrap: wrap;
+        justify-items: center;
+        align-items: center;
+        margin: 0px 10px;
+        color: white !important;
+        font-size: 25px;
+        flex-direction: column;
+    }
+
+    footer input[type=text] {
+        padding: 20px 15px;
+        width: 377px;
+        margin: 5px -8px 0px 0px;
+        border-radius: 10px 0px 0px 10px;
+        border: transparent;
+    }
+
+
+
+    .service_list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 55%;
+        font-size: 20px;
+        margin: 0 auto;
+        color: #dddddd9c;
+        width: 90%;
+    }
+
+    .loan_type {
+        display: flex;
+        align-content: center;
+        width: 260px;
+        padding: 15px;
+        margin: 0 auto;
+
+    }
+
+}
