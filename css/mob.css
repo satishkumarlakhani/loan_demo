@@ -3,7 +3,10 @@
         display: none;
 
     }
-
+    .logo {
+        margin: 10px 60px 0px 0px;
+    
+    }
     .banner {
         min-height: 40vh;
         background-size: cover;
